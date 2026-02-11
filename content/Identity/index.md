@@ -1,6 +1,5 @@
 ---
-title: Detection
+title: Identity
 ---
 
-This is KalSec homepage - an intersection of various cybersecurity discipline.
-
+All about identities

@@ -1,6 +1,5 @@
 ---
-title: Detection
+title: Sandboxing
 ---
 
-This is KalSec homepage - an intersection of various cybersecurity discipline.
-
+Sandboxing
